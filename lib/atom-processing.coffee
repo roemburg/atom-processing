@@ -19,5 +19,4 @@ module.exports =
           console.log "Signal: #{error.signal}"
         console.log "STDOUT: #{stdout}"
         console.log "STDERR: #{stderr}"
-
     )
