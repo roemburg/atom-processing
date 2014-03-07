@@ -2,7 +2,7 @@ exec = require("child_process").exec
 
 module.exports =
   activate: ->
-    atom.workspaceView.command "atom-processing:run", =>
+    atom.workspaceView.command "processing:run", =>
       @runSketch()
 
   runSketch: ->
