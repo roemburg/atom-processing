@@ -1,0 +1,18 @@
+{
+  "name": "Processing",
+  "main": "./lib/atom-processing",
+  "version": "0.0.0",
+  "private": true,
+  "description": "A short description of your package",
+  "activationEvents": [
+    "processing:run"
+  ],
+  "repository": "https://github.com/bleikamp/atom-processing",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+    "processing-language": ">0.x"
+  }
+}
