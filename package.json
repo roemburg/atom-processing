@@ -2,8 +2,7 @@
   "name": "Processing",
   "main": "./lib/atom-processing",
   "version": "0.1.0",
-  "private": true,
-  "description": "A short description of your package",
+  "description": "Run processing sketches form atom",
   "activationEvents": [
     "processing:run"
   ],
