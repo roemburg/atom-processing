@@ -12,7 +12,5 @@
   "engines": {
     "atom": ">0.50.0"
   },
-  "dependencies": {
-    "processing-language": ">0.x"
-  }
+  "dependencies": {}
 }
