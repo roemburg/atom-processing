@@ -6,7 +6,7 @@ Run Processing sketches from Atom by pressing `ctrl-cmd-b`
 
 ### Install
 
-From the command line run `apm install atom-processing`
+From the command line run `apm install Processing`
 
 Or open Atom's Settings, go to the Packages tab, and search for "atom-processing"
 
